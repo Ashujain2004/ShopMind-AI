@@ -1,0 +1,8 @@
+streamlit>=1.45
+pandas>=2.2
+numpy>=2.0
+scikit-learn>=1.5
+matplotlib>=3.9
+joblib>=1.4
+openai>=1.90
+python-dotenv>=1.1
